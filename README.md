@@ -1,6 +1,7 @@
 ## HR Dashboard - Guided Power BI Project
 
 Hello there. This is a guided project that I recently completed as an aspiring data analyst. See the live dashboard and other 9 requests below. 
+
 Also, you can see my findings and recommendations as well as the features that I used. 
 
 Live [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBjYmI5NzYtNDk1Ni00YzY2LTlkMjAtNjRhY2RmY2ExOTZhIiwidCI6ImYxZDg2ZWI5LWFhZjEtNGZiNC05ODVlLTkxOWNkMGE1ODQzMSIsImMiOjl9)
@@ -55,10 +56,15 @@ See the other 9 requests below:
 - 161 rows
 - Columns: Name  |  Emp ID   |  Gender  |  Education Qualification  |  Date of Join  |  Job Title  |  Salary  |  Age  |  Leave Balance
 - Explanation of Columns: Name --> Full name  Emp Id --> AC0001 to AC0161  Gender --> Male-Female
-                           Education Qualification --> High School Diploma < Diploma < Bachelor's Degree < Master's Degree
-                           Date of Join --> Full date  Job Title --> 10 unique titles  Salary --> in dollars
-                           Age --> between 20 and 65 approximately with one decimal point
-                           Leave Balance --> means how many vacation days left for you - positive whole number  
+
+                          Education Qualification --> High School Diploma < Diploma < Bachelor's Degree < Master's Degree
+
+                          Date of Join --> Full date  Job Title --> 10 unique titles  Salary --> in dollars
+
+                          Age --> between 20 and 65 approximately with one decimal point
+
+                          Leave Balance --> means how many vacation days left for you - positive whole number  
+
 - Mostly clean, small adjustments made through Power Query
 
 ### Features that I used
@@ -105,7 +111,6 @@ See the other 9 requests below:
 
 ### What could be added?
 
-- Years of experience could be used in a bubble chart along with salary and education level to get an overall idea.
-  This can be done in Excel.
+- Years of experience could be used in a bubble chart along with salary and education level to get an overall idea. This can be done in Excel.
 
 ### Thank you!
