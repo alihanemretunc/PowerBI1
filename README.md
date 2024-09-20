@@ -9,7 +9,7 @@ Live [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBjYmI5NzYtNDk1Ni00YzY2
 
 - A good starting point to Power BI
 - Credit: "Chandoo" YouTube Channel
-- Reference [video](https://youtu.be/5KaIU-9EF-0?si=LySpv9gnlImbZ-Gp) 
+- Reference [video]([https://youtu.be/5KaIU-9EF-0?si=LySpv9gnlImbZ-Gp](https://www.youtube.com/watch?v=5KaIU-9EF-0&t=0s)) 
 - I've followed the video and then modified/added several things myself, including the design.
 
 See the other 9 requests below:
