@@ -8,7 +8,7 @@ Live [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDBjYmI5NzYtNDk1Ni00YzY2
 
 ![HR Dashboard](Images/HR_Dashboard.png)
 
-- A good starting point to Power BI
+- A good starting point for Power BI
 - Credit: "Chandoo" YouTube Channel
 - Reference [video](https://www.youtube.com/watch?v=5KaIU-9EF-0&t=0s) 
 - I've followed the video and then modified/added several things myself, including the design.
